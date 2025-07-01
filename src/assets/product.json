@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "pname": "HP Laptop",
+      "price": "55000.00",
+      "category": "Business",
+      "color": "Light Grey"
+    },
+    {
+      "id": "2",
+      "pname": "Smartphone",
+      "price": "15000.00",
+      "category": "Electronics",
+      "color": "White"
+    },
+    {
+      "id": "4",
+      "pname": "TV",
+      "price": "15000.00",
+      "category": "Home Applicances",
+      "color": "Black"
+    }
+  ]
+}
